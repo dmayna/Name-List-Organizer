@@ -106,8 +106,3 @@ int main(int argc, const char * argv[])
 	}
 	return 0;
 }
-
-/*
-Conclusion: This program has taught me to learn how to do things efficiently. When i first wrote this program it was 300 lines of code
-and I knew there was a better way to do it. It is much simpler now using a map instead of using a switch statement for every letter.
-*/
